@@ -1,3 +1,3 @@
 # antd-yew
 
-Yew components for Ant Design.
+Ant Design components for the Yew framework.
