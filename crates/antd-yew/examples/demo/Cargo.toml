@@ -17,6 +17,7 @@ version = "0.1.0"
 crate-type = ["cdylib"]
 
 [dependencies]
+antd-yew = { path = "../.."}
 log = "0.4"
 web_logger = "0.2"
 yew = "0.10.0"
